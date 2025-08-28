@@ -19,9 +19,9 @@ public class Funcionario
     }
     
     public double salarioLiquido(){
-         double salarioLiquido;
-         salarioLiquido = salarioBase * 0.87;    
-        return salarioBase;   
-    }
+         double salarioLiquido = this.salarioBase * 0.87;    
+            salarioLiquido += this.salarioBase * ((cargo.ToUpperCase().equals("CHEFIA"))? this.salarioBase * 0.05 : 0);
+    
+        }
 }
     
