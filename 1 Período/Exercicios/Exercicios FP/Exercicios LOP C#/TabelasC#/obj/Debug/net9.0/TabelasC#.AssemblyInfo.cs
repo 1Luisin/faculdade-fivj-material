@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TabelasC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a970ecb44bb4776f9b546af178466cac0d5d675a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5660f23fe2d8813c2ac52d5007200301434e6e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TabelasC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TabelasC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

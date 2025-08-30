@@ -6,7 +6,7 @@ function imprimeMusica(){
 }
     while(numInc != 10){
 
-        while(numInc!= 10){
+        while(numInc != 10){
             
             if (numInc == 1){
                 console.log(`${numInc}elefante incomoda muita gente\n${numInc} + 1, elefantes incomodam, incomodam muito mais`);
