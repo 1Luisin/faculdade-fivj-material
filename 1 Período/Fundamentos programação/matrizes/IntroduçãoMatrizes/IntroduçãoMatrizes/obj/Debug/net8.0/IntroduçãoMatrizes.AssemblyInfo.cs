@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroduçãoMatrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333cb5c80e137f29337bda6fc8a549ea9a74aaab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d71baf3ee3a2b86faf9edfa63a9a0a72a7bfca9")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroduçãoMatrizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroduçãoMatrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
