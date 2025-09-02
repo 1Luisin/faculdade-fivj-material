@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodigoCamilo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5660f23fe2d8813c2ac52d5007200301434e6e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333cb5c80e137f29337bda6fc8a549ea9a74aaab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodigoCamilo2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodigoCamilo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
