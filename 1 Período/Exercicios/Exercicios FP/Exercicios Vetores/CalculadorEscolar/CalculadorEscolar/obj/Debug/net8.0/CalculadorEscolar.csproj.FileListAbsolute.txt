@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\bin\Debug\net8.0\CalculadorEscolar.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\bin\Debug\net8.0\CalculadorEscolar.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\bin\Debug\net8.0\CalculadorEscolar.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\bin\Debug\net8.0\CalculadorEscolar.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\bin\Debug\net8.0\CalculadorEscolar.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\refint\CalculadorEscolar.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\CalculadorEscolar.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios FP\Exercicios Vetores\CalculadorEscolar\CalculadorEscolar\obj\Debug\net8.0\ref\CalculadorEscolar.dll

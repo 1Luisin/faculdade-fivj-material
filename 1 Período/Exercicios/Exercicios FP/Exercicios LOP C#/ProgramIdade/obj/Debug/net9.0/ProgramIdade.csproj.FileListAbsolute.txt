@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\bin\Debug\net9.0\ProgramIdade.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\bin\Debug\net9.0\ProgramIdade.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\bin\Debug\net9.0\ProgramIdade.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\bin\Debug\net9.0\ProgramIdade.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\bin\Debug\net9.0\ProgramIdade.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\refint\ProgramIdade.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ProgramIdade.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\ProgramIdade\obj\Debug\net9.0\ref\ProgramIdade.dll

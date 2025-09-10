@@ -1,0 +1,14 @@
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\bin\Debug\net9.0\TestadorDeSenha.exe
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\bin\Debug\net9.0\TestadorDeSenha.deps.json
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\bin\Debug\net9.0\TestadorDeSenha.runtimeconfig.json
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\bin\Debug\net9.0\TestadorDeSenha.dll
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\bin\Debug\net9.0\TestadorDeSenha.pdb
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.AssemblyInfoInputs.cache
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.AssemblyInfo.cs
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.csproj.CoreCompileInputs.cache
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.dll
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\refint\TestadorDeSenha.dll
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.pdb
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\TestadorDeSenha.genruntimeconfig.cache
+d:\Luis Guilherme\VerificadorBasico\TestadorDeSenha\obj\Debug\net9.0\ref\TestadorDeSenha.dll

@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\bin\Debug\net8.0\CriaçãoString.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\bin\Debug\net8.0\CriaçãoString.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\bin\Debug\net8.0\CriaçãoString.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\bin\Debug\net8.0\CriaçãoString.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\bin\Debug\net8.0\CriaçãoString.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\refint\CriaçãoString.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\CriaçãoString.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\CriaçãoString\CriaçãoString\obj\Debug\net8.0\ref\CriaçãoString.dll

@@ -1,0 +1,14 @@
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.AssemblyInfoInputs.cache
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.AssemblyInfo.cs
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.csproj.CoreCompileInputs.cache
+D:\FP treinos\Treinos Aula 19.05\bin\Debug\net9.0\Treinos Aula 19.05.exe
+D:\FP treinos\Treinos Aula 19.05\bin\Debug\net9.0\Treinos Aula 19.05.deps.json
+D:\FP treinos\Treinos Aula 19.05\bin\Debug\net9.0\Treinos Aula 19.05.runtimeconfig.json
+D:\FP treinos\Treinos Aula 19.05\bin\Debug\net9.0\Treinos Aula 19.05.dll
+D:\FP treinos\Treinos Aula 19.05\bin\Debug\net9.0\Treinos Aula 19.05.pdb
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.dll
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\refint\Treinos Aula 19.05.dll
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.pdb
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\Treinos Aula 19.05.genruntimeconfig.cache
+D:\FP treinos\Treinos Aula 19.05\obj\Debug\net9.0\ref\Treinos Aula 19.05.dll

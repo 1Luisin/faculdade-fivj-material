@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\matrizes\\Introdu\u00E7\u00E3oMatrizes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8441CA-CF75-469E-8933-34D64EC79121}|Introdu\u00E7\u00E3oMatrizes\\Introdu\u00E7\u00E3oMatrizes.csproj|c:\\users\\luis\\documents\\programa\u00E7\u00E3o\\lgfivj\\fundamentos programa\u00E7\u00E3o\\matrizes\\introdu\u00E7\u00E3omatrizes\\introdu\u00E7\u00E3omatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8441CA-CF75-469E-8933-34D64EC79121}|Introdu\u00E7\u00E3oMatrizes\\Introdu\u00E7\u00E3oMatrizes.csproj|solutionrelative:introdu\u00E7\u00E3omatrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\matrizes\\Introdu\u00E7\u00E3oMatrizes\\Introdu\u00E7\u00E3oMatrizes\\Program.cs",
+              "RelativeDocumentMoniker": "Introdu\u00E7\u00E3oMatrizes\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\matrizes\\Introdu\u00E7\u00E3oMatrizes\\Introdu\u00E7\u00E3oMatrizes\\Program.cs",
+              "RelativeToolTip": "Introdu\u00E7\u00E3oMatrizes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:08:07.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

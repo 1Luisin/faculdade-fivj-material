@@ -1,0 +1,21 @@
+    #tituloPrincipal
+{
+    text-align: center;
+    font-size: 50px;
+}
+
+#body
+{
+    background-color: rgb(209, 163, 102);
+    color:aliceblue;   
+}
+
+.bodytext
+{
+    text-align: center;
+}
+
+#StarText
+{
+    color:rgb(255, 255, 76);
+}

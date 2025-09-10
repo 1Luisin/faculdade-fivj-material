@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\bin\Debug\net8.0\ExercicioComandosIterativos.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\bin\Debug\net8.0\ExercicioComandosIterativos.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\bin\Debug\net8.0\ExercicioComandosIterativos.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\bin\Debug\net8.0\ExercicioComandosIterativos.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\bin\Debug\net8.0\ExercicioComandosIterativos.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\refint\ExercicioComandosIterativos.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ExercicioComandosIterativos.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\ExercicioComandosIterativos\ExercicioComandosIterativos\obj\Debug\net8.0\ref\ExercicioComandosIterativos.dll

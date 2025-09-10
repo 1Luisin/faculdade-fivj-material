@@ -1,0 +1,19 @@
+#body{
+    background-color:rgb(245, 252, 251);
+}
+
+.noticia{
+    text-align: center;
+    float:left;
+    width: 280px;
+    padding:10px;
+    margin:10px;
+    background-color: rgb(212, 212, 212);
+}
+
+.imagem{
+
+    float:left;
+    width: 300px; 
+    padding:10px;   
+}

@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\bin\Debug\net8.0\exercicioclass.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\bin\Debug\net8.0\exercicioclass.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\bin\Debug\net8.0\exercicioclass.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\bin\Debug\net8.0\exercicioclass.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\bin\Debug\net8.0\exercicioclass.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\refint\exercicioclass.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\exercicioclass.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicioclass\exercicioclass\obj\Debug\net8.0\ref\exercicioclass.dll

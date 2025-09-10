@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\bin\Debug\net8.0\exercicios3_classes.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\bin\Debug\net8.0\exercicios3_classes.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\bin\Debug\net8.0\exercicios3_classes.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\bin\Debug\net8.0\exercicios3_classes.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\bin\Debug\net8.0\exercicios3_classes.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\refint\exercicios3_classes.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\exercicios3_classes.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicios3_classes\exercicios3_classes\obj\Debug\net8.0\ref\exercicios3_classes.dll

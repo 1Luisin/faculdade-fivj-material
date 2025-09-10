@@ -1,0 +1,1 @@
+Site criado com a finalidade de simular a interface de um programa que tem como objetivo compra e venda de produtos online. Programado 100% com html básico, sem css, sql e linguagem orientada a objetos.s    

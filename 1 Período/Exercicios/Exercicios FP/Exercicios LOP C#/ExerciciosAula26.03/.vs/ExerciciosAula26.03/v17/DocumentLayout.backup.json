@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\ExerciciosAula26.03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F185B90-BE81-4862-ABD5-5A6244139493}|ExerciciosAula26.03\\ExerciciosAula26.03.csproj|c:\\users\\guilh\\onedrive\\documentos\\programa\u00E7\u00E3o\\lgfivj\\exercicios\\exerciciosaula26.03\\exerciciosaula26.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F185B90-BE81-4862-ABD5-5A6244139493}|ExerciciosAula26.03\\ExerciciosAula26.03.csproj|solutionrelative:exerciciosaula26.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\ExerciciosAula26.03\\ExerciciosAula26.03\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosAula26.03\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\ExerciciosAula26.03\\ExerciciosAula26.03\\Program.cs",
+              "RelativeToolTip": "ExerciciosAula26.03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:48:33.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

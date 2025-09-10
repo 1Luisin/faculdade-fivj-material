@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\bin\Debug\net8.0\CodigoCamilo.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\bin\Debug\net8.0\CodigoCamilo.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\bin\Debug\net8.0\CodigoCamilo.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\bin\Debug\net8.0\CodigoCamilo.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\bin\Debug\net8.0\CodigoCamilo.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\refint\CodigoCamilo.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\CodigoCamilo.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Fundamentos programação\Codigo camilo 23.04 - vetores\CodigoCamilo\CodigoCamilo\obj\Debug\net8.0\ref\CodigoCamilo.dll

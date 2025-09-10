@@ -1,0 +1,1 @@
+Programa simples feito apenas para treinar switch e tratamento de excessões. Verifica a idade do usuário e diz a qual grupo tal pertence.

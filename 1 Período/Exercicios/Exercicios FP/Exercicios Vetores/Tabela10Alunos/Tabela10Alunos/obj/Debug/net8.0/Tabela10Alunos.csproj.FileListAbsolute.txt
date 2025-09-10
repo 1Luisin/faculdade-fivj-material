@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\bin\Debug\net8.0\Tabela10Alunos.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\bin\Debug\net8.0\Tabela10Alunos.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\bin\Debug\net8.0\Tabela10Alunos.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\bin\Debug\net8.0\Tabela10Alunos.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\bin\Debug\net8.0\Tabela10Alunos.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\refint\Tabela10Alunos.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\Tabela10Alunos.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Tabela10Alunos\Tabela10Alunos\obj\Debug\net8.0\ref\Tabela10Alunos.dll

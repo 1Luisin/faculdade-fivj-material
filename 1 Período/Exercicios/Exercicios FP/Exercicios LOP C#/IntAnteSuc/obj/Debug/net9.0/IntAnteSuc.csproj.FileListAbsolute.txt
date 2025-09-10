@@ -1,0 +1,15 @@
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\bin\Debug\net9.0\IntAnteSuc.exe
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\bin\Debug\net9.0\IntAnteSuc.deps.json
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\bin\Debug\net9.0\IntAnteSuc.runtimeconfig.json
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\bin\Debug\net9.0\IntAnteSuc.dll
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\bin\Debug\net9.0\IntAnteSuc.pdb
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.AssemblyInfoInputs.cache
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.AssemblyInfo.cs
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.csproj.CoreCompileInputs.cache
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.sourcelink.json
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.dll
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\refint\IntAnteSuc.dll
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.pdb
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\IntAnteSuc.genruntimeconfig.cache
+D:\LuisGuilherme.FIVJ\LGFIVJ\Projetinhos\IntAnteSuc\obj\Debug\net9.0\ref\IntAnteSuc.dll

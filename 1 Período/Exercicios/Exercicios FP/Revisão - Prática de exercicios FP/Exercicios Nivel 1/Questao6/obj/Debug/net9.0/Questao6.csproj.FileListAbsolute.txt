@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\bin\Debug\net9.0\Questao6.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\bin\Debug\net9.0\Questao6.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\bin\Debug\net9.0\Questao6.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\bin\Debug\net9.0\Questao6.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\bin\Debug\net9.0\Questao6.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\refint\Questao6.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\Questao6.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Exercicios Nivel 1\Questao6\obj\Debug\net9.0\ref\Questao6.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MediaAritmetica_3valores/1.0.0": {
+        "runtime": {
+          "MediaAritmetica_3valores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaAritmetica_3valores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

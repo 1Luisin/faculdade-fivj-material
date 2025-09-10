@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\bin\Debug\net8.0\calculadora_com_class.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\bin\Debug\net8.0\calculadora_com_class.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\bin\Debug\net8.0\calculadora_com_class.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\bin\Debug\net8.0\calculadora_com_class.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\bin\Debug\net8.0\calculadora_com_class.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\refint\calculadora_com_class.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\calculadora_com_class.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\calculadora_com_class\calculadora_com_class\obj\Debug\net8.0\ref\calculadora_com_class.dll

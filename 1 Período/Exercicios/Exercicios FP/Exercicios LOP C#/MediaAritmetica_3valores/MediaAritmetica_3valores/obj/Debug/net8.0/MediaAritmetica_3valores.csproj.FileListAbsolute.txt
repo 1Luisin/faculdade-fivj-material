@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\bin\Debug\net8.0\MediaAritmetica_3valores.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\bin\Debug\net8.0\MediaAritmetica_3valores.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\bin\Debug\net8.0\MediaAritmetica_3valores.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\bin\Debug\net8.0\MediaAritmetica_3valores.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\bin\Debug\net8.0\MediaAritmetica_3valores.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\refint\MediaAritmetica_3valores.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\MediaAritmetica_3valores.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\MediaAritmetica_3valores\MediaAritmetica_3valores\obj\Debug\net8.0\ref\MediaAritmetica_3valores.dll

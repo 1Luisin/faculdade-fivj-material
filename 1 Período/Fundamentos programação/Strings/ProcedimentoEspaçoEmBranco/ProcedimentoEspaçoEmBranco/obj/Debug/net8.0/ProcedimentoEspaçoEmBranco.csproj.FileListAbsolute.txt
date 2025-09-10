@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\bin\Debug\net8.0\ProcedimentoEspaçoEmBranco.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\bin\Debug\net8.0\ProcedimentoEspaçoEmBranco.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\bin\Debug\net8.0\ProcedimentoEspaçoEmBranco.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\bin\Debug\net8.0\ProcedimentoEspaçoEmBranco.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\bin\Debug\net8.0\ProcedimentoEspaçoEmBranco.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\refint\ProcedimentoEspaçoEmBranco.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ProcedimentoEspaçoEmBranco.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\Strings\ProcedimentoEspaçoEmBranco\ProcedimentoEspaçoEmBranco\obj\Debug\net8.0\ref\ProcedimentoEspaçoEmBranco.dll

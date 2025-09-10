@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodigoCamilo2", "CodigoCamilo2\CodigoCamilo2.csproj", "{6AD1FF5A-A605-4101-88CA-8DF05B90A13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD1FF5A-A605-4101-88CA-8DF05B90A13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD1FF5A-A605-4101-88CA-8DF05B90A13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD1FF5A-A605-4101-88CA-8DF05B90A13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD1FF5A-A605-4101-88CA-8DF05B90A13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8BDA73-15B3-4BD2-A9D4-57D4F61E94F3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\bin\Debug\net9.0\Testes de prátca.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\bin\Debug\net9.0\Testes de prátca.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\bin\Debug\net9.0\Testes de prátca.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\bin\Debug\net9.0\Testes de prátca.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\bin\Debug\net9.0\Testes de prátca.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\refint\Testes de prátca.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\Testes de prátca.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Revisão - Prática de exercicios FP\Testes de prátca\obj\Debug\net9.0\ref\Testes de prátca.dll

@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\bin\Debug\net8.0\MAISVETORESFICAREILOUCO.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\bin\Debug\net8.0\MAISVETORESFICAREILOUCO.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\bin\Debug\net8.0\MAISVETORESFICAREILOUCO.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\bin\Debug\net8.0\MAISVETORESFICAREILOUCO.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\bin\Debug\net8.0\MAISVETORESFICAREILOUCO.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\refint\MAISVETORESFICAREILOUCO.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\MAISVETORESFICAREILOUCO.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\MAISVETORESFICAREILOUCO\MAISVETORESFICAREILOUCO\obj\Debug\net8.0\ref\MAISVETORESFICAREILOUCO.dll

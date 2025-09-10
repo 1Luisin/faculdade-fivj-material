@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\bin\Debug\net8.0\OperacaoEntregaNumeros.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\bin\Debug\net8.0\OperacaoEntregaNumeros.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\bin\Debug\net8.0\OperacaoEntregaNumeros.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\bin\Debug\net8.0\OperacaoEntregaNumeros.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\bin\Debug\net8.0\OperacaoEntregaNumeros.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\refint\OperacaoEntregaNumeros.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\OperacaoEntregaNumeros.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\OperacaoEntregaNumeros\OperacaoEntregaNumeros\obj\Debug\net8.0\ref\OperacaoEntregaNumeros.dll

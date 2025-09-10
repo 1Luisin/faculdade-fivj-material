@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\AjudaTaina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E27E57-5565-466B-8817-CB965EA4F834}|AjudaTaina\\AjudaTaina.csproj|c:\\users\\guilh\\onedrive\\documentos\\programa\u00E7\u00E3o\\lgfivj\\exercicios\\exercicios lop c#\\ajudataina\\ajudataina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E27E57-5565-466B-8817-CB965EA4F834}|AjudaTaina\\AjudaTaina.csproj|solutionrelative:ajudataina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\AjudaTaina\\AjudaTaina\\Program.cs",
+              "RelativeDocumentMoniker": "AjudaTaina\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\Exercicios LOP C#\\AjudaTaina\\AjudaTaina\\Program.cs",
+              "RelativeToolTip": "AjudaTaina\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T23:49:46.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

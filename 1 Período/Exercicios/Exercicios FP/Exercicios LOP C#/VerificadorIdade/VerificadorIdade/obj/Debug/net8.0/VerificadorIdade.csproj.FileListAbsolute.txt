@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\bin\Debug\net8.0\VerificadorIdade.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\bin\Debug\net8.0\VerificadorIdade.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\bin\Debug\net8.0\VerificadorIdade.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\bin\Debug\net8.0\VerificadorIdade.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\bin\Debug\net8.0\VerificadorIdade.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\refint\VerificadorIdade.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\VerificadorIdade.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\VerificadorIdade\VerificadorIdade\obj\Debug\net8.0\ref\VerificadorIdade.dll

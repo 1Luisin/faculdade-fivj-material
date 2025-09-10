@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\bin\Debug\net8.0\TratamentoExcessao.Pessoal.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\bin\Debug\net8.0\TratamentoExcessao.Pessoal.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\bin\Debug\net8.0\TratamentoExcessao.Pessoal.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\bin\Debug\net8.0\TratamentoExcessao.Pessoal.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\bin\Debug\net8.0\TratamentoExcessao.Pessoal.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\refint\TratamentoExcessao.Pessoal.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\TratamentoExcessao.Pessoal.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Pessoal\TratamentoExcessao.Pessoal\TratamentoExcessao.Pessoal\obj\Debug\net8.0\ref\TratamentoExcessao.Pessoal.dll

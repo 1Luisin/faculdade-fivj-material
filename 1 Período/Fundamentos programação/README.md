@@ -1,0 +1,1 @@
+Pasta com conteúdo e "mini" exercícios das aulas práticas de Fundamentos de programação na faculdade Vianna Júnior. Contém lógica de programação e tecnologia .NET. 

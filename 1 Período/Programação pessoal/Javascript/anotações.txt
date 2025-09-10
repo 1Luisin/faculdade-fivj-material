@@ -1,0 +1,13 @@
+Na linguagem JavaScrit, diferente de outras linguagens, as variáveis são fracas em tipagem
+
+você pode utilizar a variável e declará-la depois, sem obter uma exceção. Este conceito é conhecido como hoisting
+
+tipos de dados
+
+Boolean. true e false.
+null. Uma palavra-chave que indica valor nulo. Devido JavaScript ser case-sensitive, null não é o mesmo que Null, NULL, ou ainda outra variação.
+undefined. Uma propriedade superior cujo valor é indefinido.
+Number. 42 ou 3.14159.
+String. "Howdy"
+Symbol (novo em ECMAScript 6). Um tipo de dado cuja as instâncias são únicas e imutáveis.
+e Object

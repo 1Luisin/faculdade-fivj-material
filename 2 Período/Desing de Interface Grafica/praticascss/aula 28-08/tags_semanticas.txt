@@ -1,0 +1,19 @@
+-- exemplos de tags semanticas no nivel de codigo (nao visiveis) :
+
+<header> cabeçalho
+<section> seção
+<article> declaramos quando o trecho do texto nao precisa de outro pra fazer sentido
+<blockquote> trecho citado por outra pessoa
+<nav> representa um agrupamento de links
+<aside> O elemento <aside> é utilizado quando precisamos criar um conteúdo de apoio/adicional ao conteúdo principal.
+<main> O elemento <main> especifica o conteúdo principal e, consequentemente, de maior relevância dentro da página. Para ser considerada bem construída, uma página deve apresentar apenas um conteúdo principal.
+<figure> usado para inserção de figura
+<footer> rodapé da página 
+
+-- semanticas no nivel de texto (sao visiveis):
+<a> link
+<em>
+<strong> texto importante, em negrito
+<cite>
+<q>
+<time>

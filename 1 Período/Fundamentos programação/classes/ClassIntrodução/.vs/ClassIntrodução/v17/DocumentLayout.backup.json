@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A53BA6-06E2-4CEA-89F8-646C91605DD4}|ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o.csproj|c:\\users\\luis\\documents\\programa\u00E7\u00E3o\\lgfivj\\fundamentos programa\u00E7\u00E3o\\classes\\classintrodu\u00E7\u00E3o\\classintrodu\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A53BA6-06E2-4CEA-89F8-646C91605DD4}|ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o.csproj|solutionrelative:classintrodu\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A53BA6-06E2-4CEA-89F8-646C91605DD4}|ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o.csproj|c:\\users\\luis\\documents\\programa\u00E7\u00E3o\\lgfivj\\fundamentos programa\u00E7\u00E3o\\classes\\classintrodu\u00E7\u00E3o\\classintrodu\u00E7\u00E3o\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A53BA6-06E2-4CEA-89F8-646C91605DD4}|ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o.csproj|solutionrelative:classintrodu\u00E7\u00E3o\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A53BA6-06E2-4CEA-89F8-646C91605DD4}|ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o.csproj|c:\\users\\luis\\documents\\programa\u00E7\u00E3o\\lgfivj\\fundamentos programa\u00E7\u00E3o\\classes\\classintrodu\u00E7\u00E3o\\classintrodu\u00E7\u00E3o\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A53BA6-06E2-4CEA-89F8-646C91605DD4}|ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o.csproj|solutionrelative:classintrodu\u00E7\u00E3o\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Endereco.cs",
+              "RelativeDocumentMoniker": "ClassIntrodu\u00E7\u00E3o\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Endereco.cs",
+              "RelativeToolTip": "ClassIntrodu\u00E7\u00E3o\\Endereco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:49:30.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Aluno.cs",
+              "RelativeDocumentMoniker": "ClassIntrodu\u00E7\u00E3o\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Aluno.cs",
+              "RelativeToolTip": "ClassIntrodu\u00E7\u00E3o\\Aluno.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:39:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "ClassIntrodu\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis\\Documents\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\classes\\ClassIntrodu\u00E7\u00E3o\\ClassIntrodu\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "ClassIntrodu\u00E7\u00E3o\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:33:42.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

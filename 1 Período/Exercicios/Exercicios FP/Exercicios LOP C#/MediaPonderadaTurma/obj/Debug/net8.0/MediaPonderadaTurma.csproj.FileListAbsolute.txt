@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\bin\Debug\net8.0\MediaPonderadaTurma.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\bin\Debug\net8.0\MediaPonderadaTurma.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\bin\Debug\net8.0\MediaPonderadaTurma.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\bin\Debug\net8.0\MediaPonderadaTurma.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\bin\Debug\net8.0\MediaPonderadaTurma.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\refint\MediaPonderadaTurma.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\MediaPonderadaTurma.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\MediaPonderadaTurma\MediaPonderadaTurma\obj\Debug\net8.0\ref\MediaPonderadaTurma.dll

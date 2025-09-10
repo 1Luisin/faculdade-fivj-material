@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\bin\Debug\net9.0\Exercicio dado em aula 28.04.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\bin\Debug\net9.0\Exercicio dado em aula 28.04.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\bin\Debug\net9.0\Exercicio dado em aula 28.04.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\bin\Debug\net9.0\Exercicio dado em aula 28.04.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\bin\Debug\net9.0\Exercicio dado em aula 28.04.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\refint\Exercicio dado em aula 28.04.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\Exercicio dado em aula 28.04.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicio dado em aula 28.04\obj\Debug\net9.0\ref\Exercicio dado em aula 28.04.dll

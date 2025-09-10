@@ -1,0 +1,4 @@
+D:\Luis Guilherme\Fundamentos programação\AreaDeTestes\MenuSimplesIVJ\obj\Debug\net9.0\MenuSimplesIVJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luis Guilherme\Fundamentos programação\AreaDeTestes\MenuSimplesIVJ\obj\Debug\net9.0\MenuSimplesIVJ.AssemblyInfoInputs.cache
+D:\Luis Guilherme\Fundamentos programação\AreaDeTestes\MenuSimplesIVJ\obj\Debug\net9.0\MenuSimplesIVJ.AssemblyInfo.cs
+D:\Luis Guilherme\Fundamentos programação\AreaDeTestes\MenuSimplesIVJ\obj\Debug\net9.0\MenuSimplesIVJ.csproj.CoreCompileInputs.cache

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\SubRotinas\\SubRotinas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6555C1DA-8401-4396-BC5D-314C0C80FA82}|SubRotinas\\SubRotinas.csproj|c:\\users\\guilh\\onedrive\\documentos\\programa\u00E7\u00E3o\\lgfivj\\fundamentos programa\u00E7\u00E3o\\subrotinas\\subrotinas\\subrotinas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6555C1DA-8401-4396-BC5D-314C0C80FA82}|SubRotinas\\SubRotinas.csproj|solutionrelative:subrotinas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\SubRotinas\\SubRotinas\\SubRotinas\\Program.cs",
+              "RelativeDocumentMoniker": "SubRotinas\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Fundamentos programa\u00E7\u00E3o\\SubRotinas\\SubRotinas\\SubRotinas\\Program.cs",
+              "RelativeToolTip": "SubRotinas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:42:19.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

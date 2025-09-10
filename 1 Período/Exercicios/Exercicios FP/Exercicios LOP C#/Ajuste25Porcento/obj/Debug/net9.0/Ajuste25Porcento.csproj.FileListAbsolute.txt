@@ -1,0 +1,15 @@
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\bin\Debug\net9.0\Ajuste25Porcento.exe
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\bin\Debug\net9.0\Ajuste25Porcento.deps.json
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\bin\Debug\net9.0\Ajuste25Porcento.runtimeconfig.json
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\bin\Debug\net9.0\Ajuste25Porcento.dll
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\bin\Debug\net9.0\Ajuste25Porcento.pdb
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.AssemblyInfoInputs.cache
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.AssemblyInfo.cs
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.csproj.CoreCompileInputs.cache
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.sourcelink.json
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.dll
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\refint\Ajuste25Porcento.dll
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.pdb
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\Ajuste25Porcento.genruntimeconfig.cache
+H:\Documentos\Programação\LGFIVJ\Exercicios\Ajuste25Porcento\obj\Debug\net9.0\ref\Ajuste25Porcento.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Testes de prátca/1.0.0": {
+        "runtime": {
+          "Testes de prátca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testes de prátca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

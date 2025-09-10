@@ -1,0 +1,15 @@
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\bin\Debug\net9.0\CompSalarioMinimo.exe
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\bin\Debug\net9.0\CompSalarioMinimo.deps.json
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\bin\Debug\net9.0\CompSalarioMinimo.runtimeconfig.json
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\bin\Debug\net9.0\CompSalarioMinimo.dll
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\bin\Debug\net9.0\CompSalarioMinimo.pdb
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.GeneratedMSBuildEditorConfig.editorconfig
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.AssemblyInfoInputs.cache
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.AssemblyInfo.cs
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.csproj.CoreCompileInputs.cache
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.sourcelink.json
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.dll
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\refint\CompSalarioMinimo.dll
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.pdb
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\CompSalarioMinimo.genruntimeconfig.cache
+d:\LuisGuilherme.FIVJ\Exercicios\CompSalarioMinimo\obj\Debug\net9.0\ref\CompSalarioMinimo.dll

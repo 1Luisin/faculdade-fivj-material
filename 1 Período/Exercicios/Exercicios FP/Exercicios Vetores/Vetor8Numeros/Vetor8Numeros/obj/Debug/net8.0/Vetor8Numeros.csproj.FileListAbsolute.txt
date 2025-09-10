@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\bin\Debug\net8.0\Vetor8Numeros.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\bin\Debug\net8.0\Vetor8Numeros.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\bin\Debug\net8.0\Vetor8Numeros.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\bin\Debug\net8.0\Vetor8Numeros.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\bin\Debug\net8.0\Vetor8Numeros.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\refint\Vetor8Numeros.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\Vetor8Numeros.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor8Numeros\Vetor8Numeros\obj\Debug\net8.0\ref\Vetor8Numeros.dll

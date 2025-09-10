@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\bin\Debug\net8.0\MatrizRevisão.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\bin\Debug\net8.0\MatrizRevisão.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\bin\Debug\net8.0\MatrizRevisão.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\bin\Debug\net8.0\MatrizRevisão.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\bin\Debug\net8.0\MatrizRevisão.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\refint\MatrizRevisão.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\MatrizRevisão.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\MatrizRevisão\MatrizRevisão\obj\Debug\net8.0\ref\MatrizRevisão.dll

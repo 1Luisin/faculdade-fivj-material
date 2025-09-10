@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ajuste25Porcento/1.0.0": {
+        "runtime": {
+          "Ajuste25Porcento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ajuste25Porcento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

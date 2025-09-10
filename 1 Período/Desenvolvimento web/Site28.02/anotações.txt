@@ -1,0 +1,5 @@
+O header é muito importante para o motor de busca do google, uma página pode ter somente 1 título com cada valor. Exemplo, só pode ter h1 uma vez no texto. 
+
+diferença entre <strong> e <b> é que o strong torna o texto inserido uma palavra chave, o b apenas torna o texto em negrito
+
+diferença entre <em> e <i> é que o "em" torna o texto inserido uma palavra chave, o "i" apenas torna o texto em negrito

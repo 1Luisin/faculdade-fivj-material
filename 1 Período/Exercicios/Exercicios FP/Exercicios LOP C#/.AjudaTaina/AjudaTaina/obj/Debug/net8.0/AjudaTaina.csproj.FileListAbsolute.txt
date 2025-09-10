@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\bin\Debug\net8.0\AjudaTaina.exe
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\bin\Debug\net8.0\AjudaTaina.deps.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\bin\Debug\net8.0\AjudaTaina.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\bin\Debug\net8.0\AjudaTaina.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\bin\Debug\net8.0\AjudaTaina.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.sourcelink.json
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\refint\AjudaTaina.dll
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.pdb
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\AjudaTaina.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Programação\LGFIVJ\Exercicios\Exercicios LOP C#\AjudaTaina\AjudaTaina\obj\Debug\net8.0\ref\AjudaTaina.dll

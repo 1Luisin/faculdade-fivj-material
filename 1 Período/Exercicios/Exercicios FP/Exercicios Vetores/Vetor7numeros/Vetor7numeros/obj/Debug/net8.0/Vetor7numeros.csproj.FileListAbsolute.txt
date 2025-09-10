@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\bin\Debug\net8.0\Vetor7numeros.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\bin\Debug\net8.0\Vetor7numeros.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\bin\Debug\net8.0\Vetor7numeros.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\bin\Debug\net8.0\Vetor7numeros.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\bin\Debug\net8.0\Vetor7numeros.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\refint\Vetor7numeros.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\Vetor7numeros.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\Vetor7numeros\Vetor7numeros\obj\Debug\net8.0\ref\Vetor7numeros.dll

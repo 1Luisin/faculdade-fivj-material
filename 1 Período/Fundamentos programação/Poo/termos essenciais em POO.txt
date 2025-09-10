@@ -1,0 +1,7 @@
+Instancia
+classes
+objetos
+abstração
+métodos
+funções
+atributos

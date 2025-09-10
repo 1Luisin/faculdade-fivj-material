@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\bin\Debug\net8.0\CadastroProdutos.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\refint\CadastroProdutos.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\CadastroProdutos.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Exercicios\Exercicios Vetores\CadastroProdutos\CadastroProdutos\obj\Debug\net8.0\ref\CadastroProdutos.dll

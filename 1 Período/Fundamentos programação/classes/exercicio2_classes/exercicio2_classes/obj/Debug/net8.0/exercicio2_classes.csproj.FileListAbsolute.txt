@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\bin\Debug\net8.0\exercicio2_classes.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\bin\Debug\net8.0\exercicio2_classes.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\bin\Debug\net8.0\exercicio2_classes.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\bin\Debug\net8.0\exercicio2_classes.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\bin\Debug\net8.0\exercicio2_classes.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\refint\exercicio2_classes.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\exercicio2_classes.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\exercicio2_classes\exercicio2_classes\obj\Debug\net8.0\ref\exercicio2_classes.dll

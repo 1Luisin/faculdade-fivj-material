@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\MediaPonderadaTurma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EE0043-09B7-4670-9B3F-03B13D820460}|MediaPonderadaTurma\\MediaPonderadaTurma.csproj|c:\\users\\guilh\\onedrive\\documentos\\programa\u00E7\u00E3o\\lgfivj\\exercicios\\mediaponderadaturma\\mediaponderadaturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EE0043-09B7-4670-9B3F-03B13D820460}|MediaPonderadaTurma\\MediaPonderadaTurma.csproj|solutionrelative:mediaponderadaturma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\MediaPonderadaTurma\\MediaPonderadaTurma\\Program.cs",
+              "RelativeDocumentMoniker": "MediaPonderadaTurma\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\LGFIVJ\\Exercicios\\MediaPonderadaTurma\\MediaPonderadaTurma\\Program.cs",
+              "RelativeToolTip": "MediaPonderadaTurma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:42:34.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

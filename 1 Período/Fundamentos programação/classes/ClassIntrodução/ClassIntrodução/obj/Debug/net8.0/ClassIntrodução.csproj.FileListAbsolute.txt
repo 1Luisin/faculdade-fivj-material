@@ -1,0 +1,15 @@
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\bin\Debug\net8.0\ClassIntrodução.exe
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\bin\Debug\net8.0\ClassIntrodução.deps.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\bin\Debug\net8.0\ClassIntrodução.runtimeconfig.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\bin\Debug\net8.0\ClassIntrodução.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\bin\Debug\net8.0\ClassIntrodução.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.AssemblyInfo.cs
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.sourcelink.json
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\refint\ClassIntrodução.dll
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.pdb
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ClassIntrodução.genruntimeconfig.cache
+C:\Users\Luis\Documents\Programação\LGFIVJ\Fundamentos programação\classes\ClassIntrodução\ClassIntrodução\obj\Debug\net8.0\ref\ClassIntrodução.dll
