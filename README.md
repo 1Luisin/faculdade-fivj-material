@@ -1,7 +1,8 @@
-# Arquivos Facul
+# Arquivos Faculdade 📖
 
-### Objetivo
+## Objetivo
 
 Repositório criado para armazenar todos os dados, projetos, aulas e anotações criados na faculdade. Aqui terão anotações, projetos maiores, menores, exercícios e áreas de testes.
 
 obs: Estudar herança, classe, encapsulamento, atributos e métodos, objetos, modificadores de acesso.
+obs: Estudar CSS e Js.
