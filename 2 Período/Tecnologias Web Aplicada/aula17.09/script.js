@@ -4,7 +4,7 @@ function modoEscuro(){
 }
 
 const titulo1 = document.querySelector('h1');
-const titulo2 = document.querySelector('h2');
+const titulo2 = document.querySelectorAll('h2');
 
 titulo1.addEventListener("click", ()=>{
     console.log('clicou.');
@@ -13,15 +13,28 @@ titulo1.addEventListener("click", ()=>{
 // ou
 
 function clicouRetornou(){
-    console.log('clicou no h2');
+    console.log('clicou no subtitulo');
 }
 
-titulo2.addEventListener("click",clicouRetornou());
+titulo2.forEach(titulo2 => {
+    subtitulo.addEventListener('click',(event) =>{
+        
+        console.log('clicou no',event.target)
+    });
+});
+
 
 // clicar no link
 
 const link = document.querySelector('a'); //
 
-link.addEventListener("click", () => {
+link.addEventListener("click", (event) => {
+    event.preventDefault();
+    console.log(event.target);
     console.log('clicou no link');
+})
+
+const modoescuro = document.querySelector('modo-escuro')
+modoescuro.addEventListener("click", () =>{
+    document.
 })
