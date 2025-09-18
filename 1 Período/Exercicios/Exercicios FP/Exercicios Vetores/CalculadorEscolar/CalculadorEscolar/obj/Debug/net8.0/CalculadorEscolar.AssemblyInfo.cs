@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadorEscolar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d71baf3ee3a2b86faf9edfa63a9a0a72a7bfca9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb265b53262af761fd436a786f6b82432c30ea30")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadorEscolar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadorEscolar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
