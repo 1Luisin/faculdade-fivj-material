@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tabela10Alunos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb265b53262af761fd436a786f6b82432c30ea30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65087fc8da0c2706a0e5503488b117c4bd3da14b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tabela10Alunos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tabela10Alunos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

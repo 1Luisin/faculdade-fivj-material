@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ajuste25Porcento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5660f23fe2d8813c2ac52d5007200301434e6e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65087fc8da0c2706a0e5503488b117c4bd3da14b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ajuste25Porcento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ajuste25Porcento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
