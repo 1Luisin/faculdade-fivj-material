@@ -3,13 +3,16 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-            Scanner num = new Scanner(System.in);
-            int soma = 0;
+        Scanner input = new Scanner(System.in);
+        int armazenador = 0;
+        int valorUsuario = input.nextInt();
 
-            while(num.nextInt() != 0){
-                soma += num.nextInt();
-            }
-        System.out.println(soma);
+        while (valorUsuario  != 0){
+            valorUsuario = input.nextInt();
+            armazenador = valorUsuario + armazenador;
+        }
+    System.out.println(armazenador);
+
 
     }
 }
