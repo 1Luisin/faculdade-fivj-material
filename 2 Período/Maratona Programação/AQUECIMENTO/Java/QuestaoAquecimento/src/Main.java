@@ -7,7 +7,7 @@ public class Main {
         int armazenador = 0;
         int valorUsuario = input.nextInt();
 
-        while (valorUsuario  != 0){
+        while (valorUsuario != 0){
             valorUsuario = input.nextInt();
             armazenador = valorUsuario + armazenador;
         }
