@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Patas
+comment1.params=
+comment1.target=java.lang.Integer\ getPatas()
+comment2.params=patas
+comment2.target=void\ setPatas(java.lang.Integer)
+numComments=3
