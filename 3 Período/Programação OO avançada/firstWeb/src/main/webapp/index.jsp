@@ -2,7 +2,7 @@
 
 <body>
     <h2>IMC</h2>
-    <form action="/home.html" method="POST">
+    <form action="/home.html" method="GET">
         <label for="">NOME</label>
         <input type="text" name="cpNome">
         <br>
