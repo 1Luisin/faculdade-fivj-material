@@ -5,6 +5,7 @@
 def busca(v, chave):
     i = 0
 
+
     while i < len(v) and chave != v[i]:
         i = i + 1
 
