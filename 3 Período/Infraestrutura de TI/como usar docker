@@ -1,0 +1,55 @@
+== RESUMO DA AULA == 
+
+conteudo da aula: aprender a criar rede e mapear
+
+
+cluster = maquinas que trabalham em paralelo para executar uma tarefa
+
+bridge = ponte entre o mundo dos containers e fora
+
+rede host = é acessar o host por meio dessa rede criada
+
+    rede docker => driver bridge => rede host
+
+
+primeiros comandos para criar e administrar redes docker =>
+
+docker network connect: conecta um container a uma rede
+docker network create: cria uma rede
+docker network disconnect: desconecta o container de uma rede
+docker network inspect: exibe informações detalhadas em uma rede ou mais redes
+docker network ls: lista as redes
+docker network rm: remove uma ou mais redes
+docker prune: remove todas as redes não utilizadas
+
+comando para criar um container =>
+docker run --name aularede (nome do container) -d (em segundo plano) nginx (nome da iso)
+
+comando para parar um container =>
+
+docker stop "name"
+
+comando para iniciar um container =>
+
+docker start "name"
+
+comando para remover um container =>
+
+docker rm -f (força a remoção) aularede   
+
+criar um container já dentro da rede =>
+
+docker run -d --network redeLuis --name aularede nginx
+
+porta padrao para aplicações : 80
+
+criar um container e já expor a porta =>
+
+docker run -d --network redeLuis --name aularede nginx -p
+
+verificar html onde está =>
+docker exec -it containerinfra /bin/bash
+
+
+
+caminho = root@2c67db29ddf6:/usr/share/nginx# 
